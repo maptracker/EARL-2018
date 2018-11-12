@@ -1,0 +1,15 @@
+*~
+*#
+.#*
+\#*#
+
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user
+*.Rcheck
+
+ForkedRows-*
+.nfs*
+.~lock*
+~*
