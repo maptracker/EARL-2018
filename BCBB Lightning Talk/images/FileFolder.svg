@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="36.000004" height="35.999989" viewBox="0 0 36.000004 35.999989" id="bimetrical-icon-folder" version="1.1" inkscape:version="0.92.1 r15371" sodipodi:docname="bimetrical-icon-folder.svg">
+  <title id="bimetrical_icon_folder">bimetrical icon folder</title>
+  <defs id="defs-bimetrical-icon-folder"/>   
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="2.8" inkscape:cx="24.263927" inkscape:cy="-16.268577" inkscape:document-units="px" inkscape:current-layer="bimetrical-layer-1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" units="px" inkscape:showpageshadow="true" borderlayer="true" showborder="true" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:window-maximized="1"/>
+  <metadata id="metadata-bimetrical-icon-folder">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>bimetrical icon folder</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>J. Xavier Atero</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>bimetrical</rdf:li>
+            <rdf:li>folder</rdf:li>
+            <rdf:li>icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Icon of a folder</dc:description>
+        <dc:identifier>bimetrical-icon-folder</dc:identifier>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bimetrical S.L.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2018-03-18T23:09:00</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bimetrical S.L.</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <dc:source>J. Xavier Atero's own work for Bimetrical S.L.</dc:source>
+        <dc:language>english</dc:language>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="bimetrical-layer-1" transform="translate(503.56791,-562.93364)">
+    <path inkscape:connector-curvature="0" id="bimetrical-path-folder" d="m -494.16097,562.93364 c -0.91673,0 -1.63753,0.74775 -1.63753,1.65704 v 9.03749 h 2.60871 v -8.31796 h 17.33471 v 11.67421 h 2.39842 v -12.53905 c -10e-4,-0.8283 -0.69846,-1.51173 -1.53358,-1.51173 z m 4.5936,5.03204 c -0.68463,0 -1.24054,0.61351 -1.24054,1.29374 0,0.68023 0.55708,1.29375 1.24054,1.29375 h 9.93155 c 0.68697,0 1.24056,-0.61352 1.24056,-1.29375 0,-0.68023 -0.55592,-1.29374 -1.24056,-1.29374 z m 0,4.75311 c -0.59598,0 -1.09444,0.46799 -1.21456,1.04063 0.85025,0.21517 1.62501,0.67559 2.207,1.35235 l 0.17961,0.19452 h 8.7595 c 0.68697,0 1.24056,-0.61351 1.24056,-1.29375 0,-0.68023 -0.55592,-1.29375 -1.24056,-1.29375 z m -10.527,2.5875 c -0.58783,0 -1.14624,0.273 -1.52648,0.71954 -0.37906,0.4477 -0.54102,1.06098 -0.44187,1.63593 l 0.21976,1.27969 h -0.14414 c -0.46188,0 -0.89945,0.18498 -1.19803,0.53203 -0.30324,0.34822 -0.43504,0.80158 -0.3639,1.25391 l 2.56146,16.48358 c 0.15513,0.99142 1.01386,1.72266 2.02506,1.72266 h 26.59045 c 0.46185,0 0.89943,-0.20251 1.19801,-0.5461 0.29976,-0.34706 0.43509,-0.79689 0.36626,-1.24921 l -2.5071,-16.87031 c -0.11663,-0.77046 -0.78287,-1.32656 -1.56665,-1.32656 h -12.69621 l -2.30625,-2.70703 c -0.4887,-0.56916 -1.20663,-0.92813 -1.96127,-0.92813 z m 28.19725,1.18594 0.64037,5.89453 1.5312,10.29843 2.14322,-14.45155 c 0.0595,-0.43037 -0.0663,-0.87384 -0.35445,-1.20469 -0.28576,-0.32971 -0.70398,-0.53672 -1.14368,-0.53672 z" style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999952;stroke-opacity:1"/>
+  </g>
+</svg>
