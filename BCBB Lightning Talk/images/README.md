@@ -9,6 +9,12 @@
 * `GtkWidgets.png` - [Wikimedia][gtk] + [gimp][gimp]
 * `EmptyRacks.png` - [Wikimedia][racks] + [gimp][gimp]
 * `404.png` - [Wikimedia][404]
+* `Flowers.png` - [Wikimedia][flowers]
+* `Disk.png` - [Wikimedia][disk]
+* `Mouse.png` - [Wikimedia][mouse]
+* `Forbidden.png` - [Wikimedia][no]
+* `Docker.png` - [Wikimedia][Docker]
+* `git.png` - [Wikimedia][git]
 * Other references on final slide of [EARL talk][EARL] in this repo
 
 [bricks]: https://commons.wikimedia.org/wiki/File:Solna_Brick_wall_Stretcher_bond_variation1.jpg
@@ -20,3 +26,9 @@
 [gtk]: https://commons.wikimedia.org/wiki/File:GTK%2B3-widget-factory-3-10.png
 [racks]: https://commons.wikimedia.org/wiki/File:19_inch_racks_MIT.agr.jpg
 [404]: https://commons.wikimedia.org/wiki/File:US_404_(1961).svg
+[flowers]: https://commons.wikimedia.org/wiki/File:Emojione1_1F490.svg
+[disk]: https://commons.wikimedia.org/wiki/File:Modem.svg
+[mouse]: https://commons.wikimedia.org/wiki/File:Crystal128-mouse.svg
+[no]: https://commons.wikimedia.org/wiki/File:Forbidden_Symbol_Transparent.svg
+[Docker]: https://en.wikipedia.org/wiki/File:Docker_(container_engine)_logo.svg
+[git]: 
