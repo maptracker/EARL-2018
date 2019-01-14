@@ -18,7 +18,13 @@
 * `Rlogo.png` - [Wikimedia][R]
 * `RedX.png`  - [Wikimedia][RedX]
 * `logo_bioconductor.gif` - [bioconductor.org][bioconductor]
-* Other references on final slide of [EARL talk][EARL] in this repo
+* `FileAndFolder.svg` - [Wikimedia][FileFolder]
+* `TeamIcon.svg` - [Wikimedia][TeamSVG]
+  * `ColorfulGroup.svg` - `TeamIcon.svg` + [InkScape][inkscape]
+  * `Sharing.svg` - `TeamIcon.svg` + `FileAndFolder.svg` + [InkScape][inkscape]
+* `VersionControl.png` - [Wikimedia][VC]
+* See also other references on final slide of the longer
+  [EARL talk][EARL], also in this repo, for additional sources.
 
 [EARL]: https://github.com/maptracker/EARL-2018/blob/master/Tilford%20-%20BMS%20-%20EARL%202018.pdf
 
@@ -39,3 +45,7 @@
 [R]: https://en.wikipedia.org/wiki/File:R_logo.svg
 [RedX]: https://commons.wikimedia.org/wiki/File:Red_X.svg
 [bioconductor]: https://www.bioconductor.org/images/logo_bioconductor.gif
+[TeamSVG]: https://commons.wikimedia.org/wiki/File:Team_icon_-_noun_project_20586.svg
+[inkscape]: https://inkscape.org/
+[VC]: https://commons.wikimedia.org/wiki/File:Git_commits_trees_blobs.svg
+[FileFolder]: https://commons.wikimedia.org/wiki/File:Bimetrical_icon_folder_black.svg
