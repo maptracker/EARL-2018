@@ -15,13 +15,17 @@
 * `Forbidden.png` - [Wikimedia][no]
 * `Docker.png` - [Wikimedia][Docker]
 * `git.png` - [Wikimedia][git]
+* `Rlogo.png` - [Wikimedia][R]
+* `RedX.png`  - [Wikimedia][RedX]
+* `logo_bioconductor.gif` - [bioconductor.org][bioconductor]
 * Other references on final slide of [EARL talk][EARL] in this repo
+
+[EARL]: https://github.com/maptracker/EARL-2018/blob/master/Tilford%20-%20BMS%20-%20EARL%202018.pdf
 
 [bricks]: https://commons.wikimedia.org/wiki/File:Solna_Brick_wall_Stretcher_bond_variation1.jpg
 [gimp]: https://www.gimp.org/
 [rstudioPackages]: https://www.rstudio.com/products/rpackages/
 [ubuntu]: https://commons.wikimedia.org/wiki/File:Former_Ubuntu_logo.svg
-[EARL]: https://github.com/maptracker/EARL-2018/blob/master/Tilford%20-%20BMS%20-%20EARL%202018.pdf
 [noFile]: https://commons.wikimedia.org/wiki/File:Action-undo-720.png
 [gtk]: https://commons.wikimedia.org/wiki/File:GTK%2B3-widget-factory-3-10.png
 [racks]: https://commons.wikimedia.org/wiki/File:19_inch_racks_MIT.agr.jpg
@@ -31,4 +35,7 @@
 [mouse]: https://commons.wikimedia.org/wiki/File:Crystal128-mouse.svg
 [no]: https://commons.wikimedia.org/wiki/File:Forbidden_Symbol_Transparent.svg
 [Docker]: https://en.wikipedia.org/wiki/File:Docker_(container_engine)_logo.svg
-[git]: 
+[git]: https://commons.wikimedia.org/wiki/File:Git-logo-orange.svg
+[R]: https://en.wikipedia.org/wiki/File:R_logo.svg
+[RedX]: https://commons.wikimedia.org/wiki/File:Red_X.svg
+[bioconductor]: https://www.bioconductor.org/images/logo_bioconductor.gif
