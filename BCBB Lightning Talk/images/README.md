@@ -26,6 +26,7 @@
   * `Sharing.svg` - `TeamIcon.svg` + `FileAndFolder.svg` + [InkScape][inkscape]
 * `VersionControl.png` - [Wikimedia][VC]
 * `BMS_Logo.png` - [bms.com][bms]
+* `EarlyDelivery.png` - Google Fonts: [Indie Flower][gFonts]
 * See also other references on final slide of the longer
   [EARL talk][EARL], also in this repo, for additional sources.
   
@@ -38,6 +39,7 @@ into a smaller image._
 * [RR_Science.png][rr-science]
 * [RR_PLOS.png][rr-plos]
 * [RR_Cell.png][rr-cell]
+* [RR_WashingtonPost][rr-WP]
 
 [EARL]: https://github.com/maptracker/EARL-2018/blob/master/Tilford%20-%20BMS%20-%20EARL%202018.pdf
 
@@ -45,6 +47,7 @@ into a smaller image._
 [rr-science]: http://science.sciencemag.org/content/359/6371/9
 [rr-plos]: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006930
 [rr-cell]: https://www.cell.com/cell-metabolism/fulltext/S1550-4131(16)30422-3
+[rr-WP]: https://www.washingtonpost.com/news/speaking-of-science/wp/2015/08/28/no-sciences-reproducibility-problem-is-not-limited-to-psychology/
 
 [bricks]: https://commons.wikimedia.org/wiki/File:Solna_Brick_wall_Stretcher_bond_variation1.jpg
 [gimp]: https://www.gimp.org/
@@ -70,3 +73,4 @@ into a smaller image._
 [bms]: https://www.bms.com/gb/media.html
 [ionic]: https://commons.wikimedia.org/wiki/File:Pillar_ionic.svg
 [caligraphy]: https://commons.wikimedia.org/wiki/File:Ornamental_Alphabet_-_16th_Century_Vatican.svg
+[gFonts]: https://fonts.google.com/specimen/Indie+Flower
