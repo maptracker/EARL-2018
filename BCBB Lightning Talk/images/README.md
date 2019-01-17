@@ -27,6 +27,7 @@
 * `VersionControl.png` - [Wikimedia][VC]
 * `BMS_Logo.png` - [bms.com][bms]
 * `EarlyDelivery.png` - Google Fonts: [Indie Flower][gFonts]
+* `logo-domino.png` - [Domino][domino]
 * See also other references on final slide of the longer
   [EARL talk][EARL], also in this repo, for additional sources.
   
@@ -74,3 +75,4 @@ into a smaller image._
 [ionic]: https://commons.wikimedia.org/wiki/File:Pillar_ionic.svg
 [caligraphy]: https://commons.wikimedia.org/wiki/File:Ornamental_Alphabet_-_16th_Century_Vatican.svg
 [gFonts]: https://fonts.google.com/specimen/Indie+Flower
+[domino]: https://popup.dominodatalab.com/datapopup/wp-content/uploads/logo-domino.png
