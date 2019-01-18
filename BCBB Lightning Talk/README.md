@@ -9,4 +9,4 @@ The [slides][pdf] represent a compression of the talk I gave at EARL
 details can be found in that presentation.
 
 [pdf]: BCBB%20Lightning%20Talk.pdf
-[EarlPdf]: https://github.com/maptracker/EARL-2018/blob/master/Tilford%20-%20BMS%20-%20EARL%202018.pdf
+[EarlPdf]: ../Tilford%20-%20BMS%20-%20EARL%202018.pdf

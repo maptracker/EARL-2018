@@ -1,6 +1,10 @@
 Presentation for [EARL Boston 2018][EARL], describing our work to
 create a Reproducible Research framework built on a foundation of `R`.
 
+A compressed version of the talk, produced for a Boston Computational
+Biology and Bioinformatics meetup, is available in
+[BCBB Lightning Talk][bcbb].
+
 ## PubD Disclosure Information
 
 * __Disclosure:__ 00050054
@@ -20,3 +24,4 @@ to approval. Internal BMS users can find the preceeding history in
 repository `EARL-2018-PrePublication`_
 
 [EARL]: https://earlconf.com/2018/boston/
+[bcbb]: BCBB%20Lightning%20Talk
